@@ -5,6 +5,10 @@ class Prime
 		System.out.println(prime(10));
 		System.out.println(prime(101));
 		System.out.println(prime(1011));
+		System.out.println(prime(322));
+		System.out.println(prime(32324232));
+		System.out.println(prime(3232422));
+		System.out.println(prime(33242422));
 	}
 	public static boolean prime(int num)
 	{
